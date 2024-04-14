@@ -7,4 +7,6 @@
 
 \f0\fs24 \cf0 use database DEMO_DB_GIT;\
 USE SCHEMA DEMO_SCHEMA;\
-create or replace table TT (id int);}
+create table TT \
+(id int\
+);}
